@@ -1,4 +1,9 @@
-# NoSQL and Document-oriented databases
+# Homework Comment 
+
+- I thought it more difficult to type in commands for MongoDB. It seemed more tedious when going after small amounts of data with the raw dictionary notation. 
+- I can see how it might be better for larger projects that are open ended. 
+
+ NoSQL and Document-oriented databases
 
 NoSQL, no worries? Not exactly, but it's still a powerful approach for some
 problems.
